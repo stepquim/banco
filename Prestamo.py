@@ -23,3 +23,4 @@ class Prestamo:
           return "Prestamo aceptado"
         else:
           return "Prestamo negado"
+
